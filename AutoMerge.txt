@@ -1,0 +1,15 @@
+jovyan@jupyter-alsu5817:~/CSPB 3308/Lab4/Lab4v2$ git pull
+Enter passphrase for key '/home/jovyan/.ssh/id_ed25519': 
+remote: Enumerating objects: 11, done.
+remote: Counting objects: 100% (11/11), done.
+remote: Compressing objects: 100% (6/6), done.
+remote: Total 8 (delta 4), reused 6 (delta 2), pack-reused 0
+Unpacking objects: 100% (8/8), 791 bytes | 39.00 KiB/s, done.
+From github.com:asueppel/Lab4-Version-Control
+   534a626..911a837  master     -> Lab4/master
+Auto-merging NameAssignment.md
+Auto-merging .ipynb_checkpoints/NameAssignment-checkpoint.md
+Merge made by the 'recursive' strategy.
+ .ipynb_checkpoints/NameAssignment-checkpoint.md | 1 +
+ NameAssignment.md                               | 1 +
+ 2 files changed, 2 insertions(+)
