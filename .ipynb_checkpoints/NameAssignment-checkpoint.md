@@ -1,5 +1,5 @@
 Name: Alex Sueppel
 Assignment: Lab 4: Version Control
-Partner: (Your name here)
+Partner: Kyle Tomlinson
 
 Needs update
