@@ -1,3 +1,6 @@
+Alex Sueppel - asueppel
+Kyle Tomlinson - KT-Boulder
+
 jovyan@jupyter-alsu5817:~/CSPB 3308/Lab4/Lab4v2$ git pull
 Enter passphrase for key '/home/jovyan/.ssh/id_ed25519': 
 remote: Enumerating objects: 11, done.
